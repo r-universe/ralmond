@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "package": "CPTTools"
+  },
+  {
+    "package": "RNetica"
+  },
+  {
+    "package": "Peanut"
+  },
+  {
+    "package": "PNetica"
+  },
+  {
+    "package": "Proc4"
+  },
+  {
+    "package": "EIEvewnt"
+  },
+  {
+    "package": "EABM"
+  },
+  {
+    "package": "RGAutils"
+  }
+]

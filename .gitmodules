@@ -1,5 +1,45 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ralmond/universe
 	shallow = true
 	branch = HEAD
+[submodule "CPTTools"]
+	path = CPTTools
+	url = https://github.com/ralmond/CPTTools
+	shallow = true
+	registered = true
+[submodule "RNetica"]
+	path = RNetica
+	url = https://github.com/ralmond/RNetica
+	shallow = true
+	registered = true
+[submodule "Peanut"]
+	path = Peanut
+	url = https://github.com/ralmond/Peanut
+	shallow = true
+	registered = true
+[submodule "PNetica"]
+	path = PNetica
+	url = https://github.com/ralmond/PNetica
+	shallow = true
+	registered = true
+[submodule "Proc4"]
+	path = Proc4
+	url = https://github.com/ralmond/Proc4
+	shallow = true
+	registered = true
+[submodule "EIEvewnt"]
+	path = EIEvewnt
+	url = https://github.com/ralmond/EIEvent
+	shallow = true
+	registered = true
+[submodule "EABM"]
+	path = EABM
+	url = https://github.com/ralmond/EABN
+	shallow = true
+	registered = true
+[submodule "RGAutils"]
+	path = RGAutils
+	url = https://github.com/ralmond/RGAutils
+	shallow = true
+	registered = true
