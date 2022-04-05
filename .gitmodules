@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "CPTTools"]
 	path = CPTTools
-	url = https://github.com/ralmond/CPTTools
+	url = https://github.com/ralmond/CPTtools
 	shallow = true
 	registered = true
 [submodule "RNetica"]
