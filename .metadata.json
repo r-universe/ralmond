@@ -1,6 +1,6 @@
 [
   {
-    "package": "CPTTools"
+    "package": "CPTtools"
   },
   {
     "package": "RNetica"
@@ -15,10 +15,10 @@
     "package": "Proc4"
   },
   {
-    "package": "EIEvewnt"
+    "package": "EIEvent"
   },
   {
-    "package": "EABM"
+    "package": "EABN"
   },
   {
     "package": "RGAutils"

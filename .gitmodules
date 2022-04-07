@@ -3,8 +3,8 @@
 	url = https://github.com/ralmond/universe
 	shallow = true
 	branch = HEAD
-[submodule "CPTTools"]
-	path = CPTTools
+[submodule "CPTtools"]
+	path = CPTtools
 	url = https://github.com/ralmond/CPTtools
 	shallow = true
 	registered = true
@@ -28,13 +28,13 @@
 	url = https://github.com/ralmond/Proc4
 	shallow = true
 	registered = true
-[submodule "EIEvewnt"]
-	path = EIEvewnt
+[submodule "EIEvent"]
+	path = EIEvent
 	url = https://github.com/ralmond/EIEvent
 	shallow = true
 	registered = true
-[submodule "EABM"]
-	path = EABM
+[submodule "EABN"]
+	path = EABN
 	url = https://github.com/ralmond/EABN
 	shallow = true
 	registered = true
