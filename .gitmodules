@@ -38,8 +38,8 @@
 	url = https://github.com/ralmond/EABN
 	shallow = true
 	registered = true
-[submodule "RGAutils"]
-	path = RGAutils
-	url = https://github.com/ralmond/RGAutils
+[submodule "mongo"]
+	path = mongo
+	url = https://github.com/ralmond/mongo
 	shallow = true
 	registered = true
