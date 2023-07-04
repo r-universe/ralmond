@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/ralmond/universe
-	shallow = true
 	branch = HEAD
 [submodule "CPTtools"]
 	path = CPTtools
 	url = https://github.com/ralmond/CPTtools
-	shallow = true
-	registered = true
 [submodule "RNetica"]
 	path = RNetica
 	url = https://github.com/ralmond/RNetica
-	shallow = true
-	registered = true
 [submodule "Peanut"]
 	path = Peanut
 	url = https://github.com/ralmond/Peanut
-	shallow = true
-	registered = true
 [submodule "PNetica"]
 	path = PNetica
 	url = https://github.com/ralmond/PNetica
-	shallow = true
-	registered = true
 [submodule "Proc4"]
 	path = Proc4
 	url = https://github.com/ralmond/Proc4
-	shallow = true
-	registered = true
 [submodule "EIEvent"]
 	path = EIEvent
 	url = https://github.com/ralmond/EIEvent
-	shallow = true
-	registered = true
 [submodule "EABN"]
 	path = EABN
 	url = https://github.com/ralmond/EABN
-	shallow = true
-	registered = true
 [submodule "mongo"]
 	path = mongo
 	url = https://github.com/ralmond/mongo
-	shallow = true
-	registered = true
