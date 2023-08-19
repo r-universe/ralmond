@@ -5,24 +5,24 @@
 [submodule "CPTtools"]
 	path = CPTtools
 	url = https://github.com/ralmond/CPTtools
-[submodule "RNetica"]
-	path = RNetica
-	url = https://github.com/ralmond/RNetica
-[submodule "Peanut"]
-	path = Peanut
-	url = https://github.com/ralmond/Peanut
-[submodule "PNetica"]
-	path = PNetica
-	url = https://github.com/ralmond/PNetica
-[submodule "Proc4"]
-	path = Proc4
-	url = https://github.com/ralmond/Proc4
-[submodule "EIEvent"]
-	path = EIEvent
-	url = https://github.com/ralmond/EIEvent
 [submodule "EABN"]
 	path = EABN
 	url = https://github.com/ralmond/EABN
+[submodule "EIEvent"]
+	path = EIEvent
+	url = https://github.com/ralmond/EIEvent
+[submodule "PNetica"]
+	path = PNetica
+	url = https://github.com/ralmond/PNetica
+[submodule "Peanut"]
+	path = Peanut
+	url = https://github.com/ralmond/Peanut
+[submodule "Proc4"]
+	path = Proc4
+	url = https://github.com/ralmond/Proc4
+[submodule "RNetica"]
+	path = RNetica
+	url = https://github.com/ralmond/RNetica
 [submodule "mongo"]
 	path = mongo
 	url = https://github.com/ralmond/mongo
