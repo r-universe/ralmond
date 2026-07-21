@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/ralmond/ralmond.r-universe.dev
 	branch = HEAD
+[submodule "ACED"]
+	path = ACED
+	url = https://github.com/ralmond/ACED
 [submodule "CPTtools"]
 	path = CPTtools
 	url = https://github.com/ralmond/CPTtools
